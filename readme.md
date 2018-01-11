@@ -63,6 +63,7 @@ All (most?) C# classes implement IContent
 - Demo site for search: Google `QJet`
 
 ## Missing in core code:
+
 - Block preview mechanism
 - Template Coordinator
 - No best practice on multi tenancy
@@ -70,6 +71,6 @@ All (most?) C# classes implement IContent
 - Episerver Instant Templates?  Created by another partner, not used often.
 - SCORE.Core, SCORE.Templates? What are the things that you install on a new epi solution?
 - How do you distribute components without distributing the source?
-
+- Nuget package that contains all of the base functionality of a site: seo, error handling, etc
 
 Ramp up on Commerce and B2B Tech!
